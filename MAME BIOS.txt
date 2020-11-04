@@ -1,0 +1,32 @@
+
+
+
+Acclaim PSX  	                        acpsx.zip
+American Laser Games BIOS 	        alg_bios.zip
+Amiga CD 32 Bios 	                cd32.zip
+Arcadia System Bios 	                ar_bios.zip
+Atari PSX 	                        atpsx.zip
+Atlus PSX 	                        atluspsx.zip
+Baby Phoenix/GV System 	                konamigv.zip
+CVS Bios 	                        cvs.zip
+Cassete System 	                        decocass.zip
+Crystal System BIOS 	                crysbios.zip
+Hyper Neogeo 64 Bios 	                hng64.zip
+MPU4 Video Firmware 	                bctvidbs.zip
+Max-A-Flex 	                        maxaflex.zip
+Megaplay Bios 	                        megaplay.zip
+Megatech Bios 	                        megatech.zip
+Multi Amenity Cassette System BIOS 	macsbios.zip
+Neo-Geo 	                        neogeo.zip
+Nintendo Super System BIOS 	        nss.zip
+PGM (PolyGame Master) BIOS 	        pgm.zip
+PS Arcade 95 	                        psarc95.zip
+PlayChoice-10 	                        playch10.zip
+ST-V Bios 	                        stvbios.zip
+Super Kaneko Nova System BIOS 	        skns.zip
+Konami System 573 BIOS 	                sys573.zip
+Konami System GX 	                konamigx.zip
+TPS 	                                tps.zip
+Taito FX1 	                        taitofx1.zip
+Capcom ZN1 	                        cpzn1.zip
+Capcom ZN2 	                        cpzn2.zip
